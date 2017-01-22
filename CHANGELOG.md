@@ -1,3 +1,7 @@
+### v4.1.5
+* updated engine support ^4.7 || ^6.9.2 || ^7.3 to keep node engine version in-line with async-hook's
+* update async-hook to 1.7.1
+
 ### v4.1.4 
 *   supports node 4.5.0 now
 *   chore(ci): add node 4 to travis
